@@ -1,0 +1,6 @@
+main renga
+begin
+banana := 3.4 {coment} 'r' {ihbwad} 
+
+
+banana 'r'
