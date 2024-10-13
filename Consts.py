@@ -25,6 +25,7 @@ TRANSICOES = {
                 "{": "29",
                 "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz_": "31",
                 "0123456789": "33",
+                "$": "42",
             },
             "transicoes_dif": {
             },

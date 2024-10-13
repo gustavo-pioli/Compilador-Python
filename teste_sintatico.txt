@@ -1,0 +1,14 @@
+main nome_programa  
+    begin 
+        int: idade; float : nota, z; char: c;
+        if (nota >= 50) then 
+            while (idade != 'r') do 
+            letra := 40*10 ;
+        else 
+            repeat
+                nota := nota+1 ;
+            until (nota != 20) ; 
+            {comentario}
+        if (nota >= 50) then 
+            idade := 5+1 ;
+    end
